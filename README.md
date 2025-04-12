@@ -32,8 +32,8 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
    - Set up input stimulus and analyze the output waveform.
 
 ## Circuit Diagram
+![Uploading Screenshot 2025-04-12 114917.png…]()
 
-![Screenshot 2025-03-24 122239](https://github.com/user-attachments/assets/c22930fc-f396-4787-807d-51088ad7959e)
 
 
 ## 6T SRAM Truth Table
