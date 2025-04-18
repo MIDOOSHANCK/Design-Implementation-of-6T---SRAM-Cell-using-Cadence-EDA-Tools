@@ -44,7 +44,7 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 ## Schematic Diagram
 
 #### 1. Schematic of 6T SRAM Cell:
-![Uploading Screenshot 2025-04-12 114917.png…]()
+   ![Uploading Screenshot 2025-04-12 114917.png…]()
 
 
 
@@ -54,9 +54,11 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 ## Output
 #### 1. Transient Analysis Output:
 
-   ![Screenshot 2025-03-24 121615](https://github.com/user-attachments/assets/2805525e-1f0d-4ef8-b131-79a3153b7127)
+   ![Screenshot 2025-04-12 115158](https://github.com/user-attachments/assets/241c6fff-3984-447e-80b7-5628998c83e6)
 
-   ![Screenshot 2025-03-24 124545](https://github.com/user-attachments/assets/baf058fc-e967-43bc-ba49-ce9b5e5a2e7d)
+
+   ![Uploading Screenshot 2025-04-12 114847.png…]()
+
 
 
 ## Results:
